@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Find GitHub Users</string>
+    <string name="settings">Settings</string>
+    <string name="find_github_users">Find Github Users</string>
+    <string name="searchbar_hint">Search for users</string>
+    <string name="username_user">Username User</string>
+    <string name="name">name</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <string name="number_follower">0</string>
+    <string name="number_following">0</string>
+    <string name="username">Username</string>
+    <string name="logo_splash">Logo Splash</string>
+    <string name="favorites">favorites</string>
+    <string name="favorites_page">favorites page</string>
+    <string name="setting_page">setting page</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="favorite_button">Favorite Button</string>
+    <string name="detail">Searching for GitHub users is now faster and easier!</string>
+</resources>
