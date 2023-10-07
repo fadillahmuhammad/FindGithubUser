@@ -13,5 +13,5 @@ Self Taught Apps Using Kotlin
 * Download zip and copy to your any directory
 * Open the project to your IDE
 * Put your own Github API token here: <br />
-<img width="500" alt="API token" src="https://github.com/fadillahmuhammad/FindGithubUser/assets/74767974/044e59d8-ae1a-4ca8-b2ca-738cc206efb7">
+<img width="500" alt="API token" src="https://github.com/fadillahmuhammad/FindGithubUser/assets/74767974/044e59d8-ae1a-4ca8-b2ca-738cc206efb7"> <br />
 * Run and GOTCHA!
