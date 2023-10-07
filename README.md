@@ -7,7 +7,11 @@ Self Taught Apps Using Kotlin
 <img width="150" alt="screen 4" src="https://github.com/fadillahmuhammad/FindGithubUser/assets/74767974/f5530e43-bfa2-45a0-8b0a-b05bbdfe814a">
 <img width="150" alt="screen 5" src="https://github.com/fadillahmuhammad/FindGithubUser/assets/74767974/9d3fe418-e864-4b1d-8031-eb0b8a415ab3">
 <img width="150" alt="screen 6" src="https://github.com/fadillahmuhammad/FindGithubUser/assets/74767974/d36bd3b2-44c1-4b2f-b98b-47032c5f0864">
+<br /><br />
 
-How to use: <br />
-Put your API token here: <br />
+# How to use: <br /><br />
+* Download zip and copy to your any directory
+* Open the project to your IDE
+* Put your own Github API token here: <br />
 <img width="500" alt="API token" src="https://github.com/fadillahmuhammad/FindGithubUser/assets/74767974/044e59d8-ae1a-4ca8-b2ca-738cc206efb7">
+* Run and GOTCHA!
