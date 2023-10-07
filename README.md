@@ -9,7 +9,7 @@ Self Taught Apps Using Kotlin
 <img width="150" alt="screen 6" src="https://github.com/fadillahmuhammad/FindGithubUser/assets/74767974/d36bd3b2-44c1-4b2f-b98b-47032c5f0864">
 <br /><br />
 
-# How to use: <br /><br />
+# How to use:
 * Download zip and copy to your any directory
 * Open the project to your IDE
 * Put your own Github API token here: <br />
