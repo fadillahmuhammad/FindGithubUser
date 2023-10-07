@@ -8,6 +8,6 @@ Self Taught Apps Using Kotlin
 <img width="150" alt="screen 5" src="https://github.com/fadillahmuhammad/FindGithubUser/assets/74767974/9d3fe418-e864-4b1d-8031-eb0b8a415ab3">
 <img width="150" alt="screen 6" src="https://github.com/fadillahmuhammad/FindGithubUser/assets/74767974/d36bd3b2-44c1-4b2f-b98b-47032c5f0864">
 
-How to use:
-Put your API token here: "\n"
+How to use: <br />
+Put your API token here: <br />
 <img width="500" alt="API token" src="https://github.com/fadillahmuhammad/FindGithubUser/assets/74767974/044e59d8-ae1a-4ca8-b2ca-738cc206efb7">
